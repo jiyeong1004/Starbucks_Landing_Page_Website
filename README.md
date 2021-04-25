@@ -33,6 +33,8 @@ The ```width=device-width``` part sets the width of the page to follow the scree
 
 The ```initial-scale=1.0``` part sets the initial zoom level when the page is first loaded by the browser.
 
+![화면조절](https://user-images.githubusercontent.com/51290739/115993824-7e61f000-a60f-11eb-9705-23af13875cb6.gif)
+
 ---
 
 [Part 1 : Starbucks Landing Page Website Design using Html CSS & Javascript](https://youtu.be/91Q6RvKvd7o)
