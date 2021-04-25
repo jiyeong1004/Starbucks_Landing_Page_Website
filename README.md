@@ -18,6 +18,10 @@ Image Download Link : https://drive.google.com/drive/folders/1mdjzWjYMOVOmwUVRw5
 
 https://www.w3schools.com/css/css_rwd_viewport.asp
 
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
 ---
 
 [Part 1 : Starbucks Landing Page Website Design using Html CSS & Javascript](https://youtu.be/91Q6RvKvd7o)
