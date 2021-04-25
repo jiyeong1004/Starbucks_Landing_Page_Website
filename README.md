@@ -42,3 +42,5 @@ The ```initial-scale=1.0``` part sets the initial zoom level when the page is fi
 ![part1](https://user-images.githubusercontent.com/51290739/115987293-6da18200-a5ef-11eb-8b0c-ad090a60516a.gif)
 
 [Part 2 : How to Make it Responsive](https://youtu.be/HXKNedyDbNE)
+
+![nav](https://user-images.githubusercontent.com/51290739/115994150-bddd0c00-a610-11eb-858a-8ed8557cbb91.gif)
