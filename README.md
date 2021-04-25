@@ -37,4 +37,6 @@ The ```initial-scale=1.0``` part sets the initial zoom level when the page is fi
 
 [Part 1 : Starbucks Landing Page Website Design using Html CSS & Javascript](https://youtu.be/91Q6RvKvd7o)
 
+![part1](https://user-images.githubusercontent.com/51290739/115987293-6da18200-a5ef-11eb-8b0c-ad090a60516a.gif)
+
 [Part 2 : How to Make it Responsive](https://youtu.be/HXKNedyDbNE)
