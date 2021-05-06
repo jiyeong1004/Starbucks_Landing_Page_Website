@@ -2,7 +2,7 @@
 
 ## YouTube : [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
-<a href="https://java-coding.tistory.com/2"><img src="https://img.shields.io/badge/-Tistory-orange?style=for-the-badge"></a>
+<a href="https://java-coding.tistory.com/2"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge"></a>
 
 ### <image source & Attribution>
 
